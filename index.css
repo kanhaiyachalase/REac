@@ -1,0 +1,33 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+ background-color:rgb(68, 71, 65);
+}
+
+.cards{
+   flex-direction: row;
+   text-align: center;
+   display: block;
+   margin-top: 10%;
+   box-sizing: border-box;
+   width: 100%;
+   height: auto;
+}
+h1{
+  text-align: center;
+  color: chartreuse;
+  margin-top: 5%;
+  font-size: 300%;
+}
+button{
+ color: red;
+ size: 296px; 
+}
+img{
+  border-radius: 23px;
+  box-shadow: black 23px;
+}
+.cards:hover{
+  box-shadow: 365px;
+}
